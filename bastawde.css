@@ -1,0 +1,21 @@
+h3{
+ color:aqua;
+}
+
+*{
+    color: rgb(15, 0, 13);
+}
+
+h1,h2{
+    color: chartreuse;
+}
+
+.test{
+
+    color: crimson;
+
+}
+
+#done{
+color: darkslateblue;
+}
